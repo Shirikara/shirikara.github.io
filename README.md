@@ -4,12 +4,16 @@
 
 I am Shiri, a Ph.D. student at the Weizmann Institute working on breast cancer and single-cell proteomics.<br> 
 Analyzing human samples from the clinic makes me feel closer to the applicational opportunities of basic science.<br> 
-- Data-driven person specializing in R, Python, and MATLAB.<be>
-- 5+ years of experience in mass Spectrometry
-- Part-time scientific writer at Davison Institute, believing that promoting science education is as important as being a scientist.<br> 
-- I am a plant-lover 🌱, and I enjoy practicing yoga. Since I have my own sourdough, "Tamagotchi," I haven't bought a bread loaf even once.<br>
----
-📓 Check out my last preprint in [_BiorXiv_](https://www.biorxiv.org/content/10.1101/2024.11.01.621461v1)
+💻 Data-driven person specializing in R, Python, and MATLAB.<be>
+🔬 5+ years of experience in mass Spectrometry
+✏️ Part-time scientific writer at Davison Institute, believing that promoting science education is as important as being a scientist.<br> 
+🌱 I am a plant-lover
+🧘I enjoy practicing yoga.
+🍞 Since I have my own sourdough, "Tamagotchi," I haven't bought a bread loaf even once. <be>
+
+📝 Check out my last preprint in [_BiorXiv_](https://www.biorxiv.org/content/10.1101/2024.11.01.621461v1)
+
+--- 
 
 - Here is my LinkedIn account:<br>
 <a href="https://www.linkedin.com/in/shiri-karagach-73b381138/" target="_blank">
