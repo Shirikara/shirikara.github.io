@@ -4,10 +4,9 @@ Hello, I am Shiri, a Ph.D. student at the Weizmann Institute working on breast c
 Check out my last preprint in [_BiorXiv_](https://www.biorxiv.org/content/10.1101/2024.11.01.621461v1)
 
 Here is my LinkedIn account:<br>
-[LinkedIn](https://www.linkedin.com/in/shiri-karagach-73b381138/)
+[![LinkedIn](https://github.com/user-attachments/assets/6d8a0342-dbf6-4261-9ab9-8f4222535718)](https://www.linkedin.com/in/shiri-karagach-73b381138/)
 
-<img src="https://img.freepik.com/free-vector/new-twitter-logo-x-icon-black-background_1017-45427.jpg?t=st=1730800278~exp=1730803878~hmac=5448a6040160db7e9baca77a228b669ebc855fd20239ae9fa911f7af86f516e2&w=996" width="50" alt="Twitter Logo"> [Tweeter](https://twitter.com/SKaragach)
-
+![linkedin](https://github.com/user-attachments/assets/6d8a0342-dbf6-4261-9ab9-8f4222535718)
 
 <a href="https://twitter.com/SKaragach" target="_blank">
     <img src="https://img.freepik.com/free-vector/new-twitter-logo-x-icon-black-background_1017-45427.jpg?t=st=1730800278~exp=1730803878~hmac=5448a6040160db7e9baca77a228b669ebc855fd20239ae9fa911f7af86f516e2&w=996" alt="Twitter Logo" width="50">
