@@ -1,5 +1,6 @@
 # **Welcome to my webpage!** <br>
-![My GitHub Profile Image](https://github.com/shirikara.png)
+![My GitHub Profile Image] <img src="https://github.com/Shirikara/shirikara.github.io/raw/main/" alt="My Sourdough Bread" width="200">
+
 
 I am Shiri, a Ph.D. student at the Weizmann Institute working on breast cancer and single-cell proteomics.<br> 
 Analyzing human samples from the clinic makes me feel closer to the applicational opportunities of basic science.<br> 
