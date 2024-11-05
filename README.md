@@ -1,5 +1,5 @@
 # **Welcome to my webpage!** <br>
-![My GitHub Profile Image] <img src="https://github.com/Shirikara/shirikara.github.io/raw/main/" alt="My Sourdough Bread" width="200">
+![My GitHub Profile Image] <img src="https://github.com/Shirikara/shirikara.github.io/raw/main/wiz (388).jpg" alt="My Profile Picture" width="200">
 
 
 I am Shiri, a Ph.D. student at the Weizmann Institute working on breast cancer and single-cell proteomics.<br> 
