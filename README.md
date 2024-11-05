@@ -9,7 +9,7 @@ Analyzing human samples from the clinic makes me feel closer to the applicationa
 - Part-time scientific writer at Davison Institute, believing that promoting science education is as important as being a scientist.<br> 
 - I am a plant-lover 🌱, and I enjoy practicing yoga. Since I have my own sourdough, "Tamagotchi," I haven't bought a bread loaf even once.<br>
 ---
-- Check out my last preprint in [_BiorXiv_]<br>(https://www.biorxiv.org/content/10.1101/2024.11.01.621461v1)
+📓 Check out my last preprint in [_BiorXiv_]<br>(https://www.biorxiv.org/content/10.1101/2024.11.01.621461v1)
 
 - Here is my LinkedIn account:<br>
 <a href="https://www.linkedin.com/in/shiri-karagach-73b381138/" target="_blank">
