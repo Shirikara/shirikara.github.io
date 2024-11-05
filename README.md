@@ -1,9 +1,6 @@
-<style>
-  body {
-    background-color: #98FF98; /* Mint green color */
-  }
-</style>
-
+body {
+  background-color: #98FF98; /* Mint green color */
+}
 **Welcome to my webpage!** <br>
 Hello, I am Shiri, a Ph.D. student at the Weizmann Institute working on breast cancer and single-cell proteomics with 5+ years of experience in mass Spectrometry. Analyzing human samples from the clinic makes me feel closer to the applicational opportunities of basic science. Data-driven person specializing in R, Python, and MATLAB. I am a part-time scientific writer at Davison Institute, believing that promoting science education is as important as being a scientist. I am a plant-lover, and I enjoy practicing yoga. Since I have my own sourdough, "Tamagotchi," I haven't bought a bread loaf even once.<br> 
 
