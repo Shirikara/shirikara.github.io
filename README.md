@@ -20,5 +20,6 @@ Analyzing human samples from the clinic makes me feel closer to the applicationa
     <img src="https://img.freepik.com/free-vector/new-twitter-logo-x-icon-black-background_1017-45427.jpg?t=st=1730800278~exp=1730803878~hmac=5448a6040160db7e9baca77a228b669ebc855fd20239ae9fa911f7af86f516e2&w=996" alt="Twitter Logo" width="40">
 </a>
 
-![My Sourdough Bread](https://raw.githubusercontent.com/shiri-karagach/my-repo/main/IMG_20230601_082702.jpg)
+![My Image](https://raw.githubusercontent.com/shiri-karagach/my-repo/main/IMG_20230601_082702.jpg)
+
 
