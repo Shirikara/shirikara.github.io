@@ -6,7 +6,7 @@ Check out my last preprint in [BiorXiv] (https://www.biorxiv.org/content/10.1101
 Here is my LinkedIn account:
 [LinkedIn](https://www.linkedin.com/in/shiri-karagach-73b381138/)
 
+<img src="https://img.freepik.com/free-vector/new-twitter-logo-x-icon-black-background_1017-45427.jpg?t=st=1730800278~exp=1730803878~hmac=5448a6040160db7e9baca77a228b669ebc855fd20239ae9fa911f7af86f516e2&w=996" width="50" alt="Twitter Logo">
 
-![](https://img.freepik.com/free-vector/new-twitter-logo-x-icon-black-background_1017-45427.jpg?t=st=1730800278~exp=1730803878~hmac=5448a6040160db7e9baca77a228b669ebc855fd20239ae9fa911f7af86f516e2&w=996){:width="50px"}
 
 [Tweeter](https://twitter.com/SKaragach)
