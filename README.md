@@ -21,6 +21,7 @@
     <a href="https://www.linkedin.com/in/shiri-karagach-73b381138/" target="_blank">
         <img src="https://github.com/user-attachments/assets/6d8a0342-dbf6-4261-9ab9-8f4222535718" alt="LinkedIn Logo" width="40">
     </a>
+    
 - Here is my Twitter account:<br>
     <!-- Twitter (X) icon -->
     <a href="https://twitter.com/SKaragach" target="_blank">
