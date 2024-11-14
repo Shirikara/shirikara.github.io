@@ -21,7 +21,7 @@
     <a href="https://www.linkedin.com/in/shiri-karagach-73b381138/" target="_blank">
         <img src="https://github.com/user-attachments/assets/6d8a0342-dbf6-4261-9ab9-8f4222535718" alt="LinkedIn Logo" width="40">
     </a>
-
+- Here is my Twitter account:<br>
     <!-- Twitter (X) icon -->
     <a href="https://twitter.com/SKaragach" target="_blank">
         <img src="https://img.freepik.com/free-vector/new-twitter-logo-x-icon-black-background_1017-45427.jpg?t=st=1730800278~exp=1730803878~hmac=5448a6040160db7e9baca77a228b669ebc855fd20239ae9fa911f7af86f516e2&w=996" alt="Twitter Logo" width="40">
