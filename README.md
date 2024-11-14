@@ -1,5 +1,5 @@
 # **Welcome to my webpage!** <br>
-<img src="https://github.com/Shirikara/shirikara.github.io/raw/main/wiz%20(388).jpg" alt="My Profile Picture" width="200" style="border-radius: 8px;">
+<img src="https://github.com/Shirikara/shirikara.github.io/raw/main/wiz%20(388).jpg" alt="My Profile Picture" width="200" style="border-radius: 10px;">
 
 - I am Shiri, a Ph.D. student at the Weizmann Institute working on breast cancer and single-cell proteomics. <br> 
 - Analyzing human samples from the clinic makes me feel closer to the applicational opportunities of basic science. <br> 
