@@ -30,7 +30,7 @@
 </div>
 
 - My sourdough bread ❤️
-<img src="https://github.com/Shirikara/shirikara.github.io/raw/main/IMG_20230601_082702.jpg" alt="My Sourdough Bread" width="200" style="border-radius: 10px;>
+<img src="https://github.com/Shirikara/shirikara.github.io/raw/main/IMG_20230601_082702.jpg" alt="My Sourdough Bread" width="200" style="border-radius: 10px">
 
 - This webpage was created as part of the [Python course](https://github.com/szabgab/wis-python-course-2024-11) <br>
   given by: [szabgab](https://szabgab.com/) <br>
